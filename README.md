@@ -5,7 +5,7 @@ This project was created as part of a learning challenge.
 
 ## Live Project
 
-https://your-project-url.com
+https://github.com/codewithdhy1219005/my-project
 
 ## How to Run
 
