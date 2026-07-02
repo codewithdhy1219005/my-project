@@ -2,7 +2,8 @@
 
 ## Project URL
 
-https://github.com/codewithdhy1219005/my-project
+https://codewithdhy1219005.github.io/my-project/
+
 ## Repository URL
 
 https://github.com/codewithdhy1219005/my-project
