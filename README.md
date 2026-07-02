@@ -1,22 +1,25 @@
-# My Project
+# Weather Web App
 
-## Description
-This project was created as part of a learning challenge.
+## Project URL
 
-## Project Page
 https://codewithdhy1219005.github.io/my-project/
 
-## Repository
+## Repository URL
+
 https://github.com/codewithdhy1219005/my-project
 
-## How to Run
+## Description
 
-1. Clone the repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
+A weather web app built as part of the roadmap.sh project.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
